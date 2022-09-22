@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Assignment, Taylor Ballantyne 
+# Tic-Tac-Toe Assignment, Taylor Ballantyne 09/22/2022
 
 def main():
     player = next_player('')
